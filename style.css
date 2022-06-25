@@ -1,0 +1,16 @@
+.hp-header {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: powderblue;
+    background-color: black;
+}
+
+.kpc-header {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.kpc-header2,
+.kpc-header3 {
+    background-color: aquamarine;
+}
