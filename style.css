@@ -1,3 +1,7 @@
+body {
+    background-color: #f0f075;
+}
+
 .hp-header {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -5,12 +9,27 @@
     background-color: black;
 }
 
-.kpc-header {
+.main-info ul {
+    text-align: center;
+}
+
+.main-info ul li {
+    list-style-type: none;
+    font-size: 24px;
+    padding: 24px;
+}
+
+.kpc-header, .kpc-header2, .kpc-header3 {
     text-align: center;
     background-color: aquamarine;
 }
 
-.kpc-header2,
-.kpc-header3 {
+.res-header1, .res-header2, .res-header3 {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.ofpc-header1, .ofpc-header2, .ofpc-header3 {
+    text-align: center;
     background-color: aquamarine;
 }
